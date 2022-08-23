@@ -9,7 +9,7 @@ const textureLoader = new THREE.TextureLoader()
 const normalTexture = textureLoader.load('/textures/normal.png')
 
 // Debug
-const gui = new dat.GUI()
+// const gui = new dat.GUI()
 
 // Canvas
 const canvas = document.querySelector('canvas.webgl')
